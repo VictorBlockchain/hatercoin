@@ -1,3 +1,9 @@
+#FTP
+*.ftpconfig
+
+#Angular
+*.angular
+
 # Logs
 logs
 *.log
